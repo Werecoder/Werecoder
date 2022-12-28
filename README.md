@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Werecoder
 - 👀 I’m interested in horses and booting the world into Utopia
-- 🌱 I’m currently learning quantum computing and implementing firmware for post quantum cryptography
+- 🌱 I’m currently learning quantum computing (IBM version), implementing firmware for post quantum cryptography, embodying autonomous drone security mechanisms, and running out of time
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
